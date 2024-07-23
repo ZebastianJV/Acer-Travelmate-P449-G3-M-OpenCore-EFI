@@ -3,8 +3,10 @@ This is an EFI folder I have for the Acer P449-G3-M
 ![IMG_20240723_105430](https://github.com/user-attachments/assets/b50c4b27-0ca5-4f79-b240-63e9f4437f4e)
 > [!CAUTION]
 > This is **ONLY** for macOS Sonoma 14.4.1 so stuff **COULD** break when used with a different macOS version.
+
 > [!NOTE]
 > OpenCore version used is 0.9.1.
+
 > [!NOTE]
 > Change your SMBIOS Serial Number, MLB, ROM etc.
 ### Legend:
