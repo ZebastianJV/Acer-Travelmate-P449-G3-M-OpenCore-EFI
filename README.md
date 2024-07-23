@@ -33,9 +33,11 @@ This is an EFI folder I have for the Acer P449-G3-M
 [X] SD Card Reader
 [X] Function keys (F3 for network is buggy as hell but I never seem to get it to work cause it crashes my Wi-Fi sometimes, F4 does sleep the laptop except indefinitely, F5 opens pinned messages on Discord???, F6 turns on and off the display so your mates won't see how much you are watching po-, F7 turns off the touchpad, F8 is a mute volume key, F9 is turning on and of the keyboard backlight if you have that. F11/NumLock doesn't work. F12/ScrollLock doesn't work cause macOS does not support it. The media buttons on the right all work. The brightness and volume buttons on the shitty arrow keys do work as well.
 [X] Headphone jack (i swear to fucking god apple if you goddamn remove support for it...)
+
 ❓ HDMI
 ❓ VGA (most likely it doesn't work because macOS doesn't support VGA anymore)
 ❓ Smart Card Reader (how the hell am I supposed to test this???)
+
 [ ] Drop detection (like you would drop your laptop)
 [ ] Fingerprint Scanner (no Touch ID emulation for any device with a fingerprint scanner at least for now)
 [ ] Touchpad (needs boot arguments for it to **semi** work. The trackpad works temporarily. This should not be used as a boot argument as some will say it would cause heat and poor battery life on the laptop (working on the fix with GPIO pinning. Also left click on the touchpad barely works and the right click on the touchpad doesn't work at all... Wow so sad...)
