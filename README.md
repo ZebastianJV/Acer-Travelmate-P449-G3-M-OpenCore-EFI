@@ -7,7 +7,7 @@ This is an EFI folder I have for the Acer P449-G3-M
 > OpenCore version used is 0.9.1.
 ### Legend:
 - [X] Working
-- ❓ Untested
+❓ Untested
 - [ ] Not working
 ## Specs
 | Component Type | What is it |
