@@ -5,6 +5,8 @@ This is an EFI folder I have for the Acer P449-G3-M
 > This is **ONLY** for macOS Sonoma 14.4.1 so stuff **COULD** break when used with a different macOS version.
 > [!NOTE]
 > OpenCore version used is 0.9.1.
+> [!NOTE]
+> Change your SMBIOS Serial Number, MLB, ROM etc.
 ### Legend:
 - [X] Working
 - ❓ Untested
@@ -40,4 +42,4 @@ This is an EFI folder I have for the Acer P449-G3-M
 - [ ] Fingerprint Scanner (no Touch ID emulation for any device with a fingerprint scanner at least for now)
 - [ ] Touchpad (needs boot arguments for it to **semi** work. The trackpad works temporarily. This should not be used as a boot argument as some will say it would cause heat and poor battery life on the laptop (working on the fix with GPIO pinning. Also left click on the touchpad barely works and the right click on the touchpad doesn't work at all... Wow so sad...)
 - [ ] AirDrop (barely fucking works it's just stupid. My iPhone won't detect the laptop and the laptop would detect the iPhone but the AirDrop on the laptop would say "Declined" whenever I try to send something. Just don't use it..
-
+- [ ] iServices (I don't have time to fix this... you can try to fix it yourself.)
